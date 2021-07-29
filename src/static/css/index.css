@@ -1,0 +1,83 @@
+
+
+#box1{
+  border: 1px solid #E5E6EA;
+  border-radius: 10px;
+  margin-top: 40px;
+  background-color: #E5F1FB;
+}
+#wd{
+  margin-top: 10px;
+  margin-left: 40px;
+}
+#sd{
+  margin-left: 40px;
+  font-size: 5px;
+  color: #C1C1C1;
+}
+.media-body a{
+  text-decoration: none;
+}
+#box2{
+  border: 1px solid #E5E6EA;
+  border-radius: 10px;
+  margin-top: 40px;
+  background-color: rgb(232, 243, 232);
+}
+#box3{
+  border: 1px solid #E5E6EA;
+  border-radius: 10px;
+  margin-top: 40px;
+  background-color: ivory;
+}
+.foot{
+  text-align: center;
+  height: 50px;
+  background-color: rgb(226, 224, 230);
+  color: rgb(31, 3, 3);
+  margin-top: 10px;
+}
+.foot p{
+  padding-top: 20px;
+}
+
+.detailBox{
+  text-align: center;
+}
+.detailBox .el-button{
+  color: white;
+}
+.detailBox span{
+  font-size: 24px;
+  font-weight: 700;
+}
+#tips{
+  display: inline-block;
+  margin-top: 50px;
+  font-size: 16px;
+  font-weight: normal;
+}
+.courseExpand {
+  font-size: 0;
+}
+.courseExpand .el-form-item {
+  margin-right: 0;
+  margin-bottom: 0;
+  width: 50%;
+}
+.detailBox_3{
+  text-align: center;
+  font-size: 24px;
+  font-weight: 700;
+  padding: 20px;
+}
+.detailBox_3 .el-rate{
+  display: inline-block;
+}
+.el-divider{
+  margin: 10px 0;
+}
+.spaceBox{
+  display: inline-block;
+  width: 60px;
+}
