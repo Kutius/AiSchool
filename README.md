@@ -1,5 +1,7 @@
 # ai-school
 
+![AiSchool](https://socialify.git.ci/Gaaraly/AiSchool/image?description=1&descriptionEditable=%E5%9F%BA%E4%BA%8EVue%E6%99%BA%E6%85%A7%E6%A0%A1%E5%9B%AD%E4%B8%80%E7%AB%99%E5%BC%8F%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0&font=Bitter&language=1&pattern=Circuit%20Board&theme=Dark)
+
 ## 简介
 
 本项目是基于Vue2.0所实现的关于智慧校园一站式服务平台，主体部分使用`element-ui`实现，部分页面采用`BootStrap`完成。由于前后端分离，本项目是纯前端项目。感谢组长与组员们的共同努力。
