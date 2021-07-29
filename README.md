@@ -1,6 +1,6 @@
-# ai-school
+# Ai-School
 
-![AiSchool](https://socialify.git.ci/Gaaraly/AiSchool/image?description=1&descriptionEditable=%E5%9F%BA%E4%BA%8EVue%E6%99%BA%E6%85%A7%E6%A0%A1%E5%9B%AD%E4%B8%80%E7%AB%99%E5%BC%8F%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0&font=Bitter&language=1&pattern=Circuit%20Board&theme=Dark)
+![AiSchool](AiSchool.webp)
 
 ## 简介
 
